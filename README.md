@@ -11,7 +11,7 @@ BOM:
 
 |Materials|Amount|Cost|Link|
 |:-------:|:----:|:--:|:--:|
-|ESP20    |1     |$5  |asdas|
+|ESP32    |1     |$5  |asdas|
 |PCB 5x6cm|1|$2|asdad|
 |Bluetooth Receiver|1|$1|12eads|
 |Buck DC-DC 12V-5V|1|$1|dAdsad|
